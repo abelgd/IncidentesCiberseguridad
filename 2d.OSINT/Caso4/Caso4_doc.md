@@ -68,7 +68,7 @@
 
 | **Pregunta** | **Respuesta** |
 |--------------|---------------|
-| **Hora grabación vídeo** | ~4:45 PM (16:45), 16 feb 2023 |
+| **Hora grabación vídeo** | Aprox 16:45h, 16 feb 2023 |
 | **Coordenadas inicio vídeo** | 41°19'37.24"N, 19°48'27.01"E |
 | **Coordenadas fin vídeo** | 41°19'36.29"N, 19°48'23.89"E |
 
