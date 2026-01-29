@@ -146,3 +146,75 @@ Priorizar búsqueda inversa especializada + cruce contextual temporal/geográfic
 - Usar términos de búsqueda más específicos desde el inicio.
 
 ---
+
+# WRITE-UP CASO 3
+
+## Introducción y descripción del caso
+Identificar el **nombre de la estación de tren** y **nombre + altura de la estructura más alta visible** en la imagen analizada.
+
+**Descripción de la imagen analizada:**
+- Letrero **"FLINDERS STREET"** claramente visible
+- Edificios modernos de vidrio al fondo
+- Arquitectura australiana típica
+
+---
+
+## Metodología empleada
+
+- **Búsqueda texto visible**  
+  → **"Flinders Street station"** → Identificación inmediata Melbourne
+
+- **Verificación Street View**  
+  → Navegación 360° Google Maps → Coincidencia **100%**
+
+- **Identificación edificio Street View**  
+  → Cartel **"FOCUS APARTMENTS - 151 CITY RD"**
+
+- **Confirmación altura oficial**  
+  → The Skyscraper Center → **167 metros**, 50 pisos
+
+---
+
+## Resultados obtenidos
+
+- **a)** **Flinders Street Railway Station**  
+  **Melbourne, Victoria, Australia**  
+  Estación más concurrida del país (desde 1854)
+
+- **b)** **FOCUS Apartments**  
+  **167 metros** (50 pisos)  
+  151 City Rd, Southbank, Melbourne
+
+---
+
+## Tabla con respuestas
+
+| Pregunta | Respuesta |
+|--------|----------|
+| **a) Nombre estación** | Flinders Street Railway Station, Melbourne, Australia |
+| **b) Nombre + altura edificio** | FOCUS Apartments, 167 metros (50 pisos) |
+
+---
+
+## Conclusiones y recomendaciones
+El **texto visible** proporcionó el **pivote decisivo** para identificación instantánea.  
+**Street View nivel calle** resolvió la perspectiva engañosa confirmando **100%** los datos.
+
+**Recomendación principal:**  
+Siempre combinar **Street View múltiples ángulos** + **bases datos oficiales** para alturas.
+
+---
+
+## Reflexión sobre las limitaciones y posibles mejoras
+
+### Limitaciones
+- TinEye sin resultados útiles
+- Perspectiva engañosa (IBM parecía más alto)
+- Cartel invisible desde vista satelital
+
+### Posibles mejoras
+- Priorizar texto visible sobre búsqueda inversa
+- Usar Street View nivel calle sistemáticamente
+- Verificar alturas con fuentes arquitectura oficiales
+
+---
