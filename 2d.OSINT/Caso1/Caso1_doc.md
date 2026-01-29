@@ -4,11 +4,10 @@
 
 ## **1. Análisis inicial y planificación OSINT**
 
-Objetivo: Identificar lugar/fecha de nacimiento, residencia actual y foto en hábitat actual de la jirafa de la imagen proporcionada.  
-Herramientas: Antes de empezar con la investigación planificamos las principales herramientas que vamos a utilizar. Principalmente: Google Imágenes, Google Lens, TinEye, Google Dorks y fuentes abiertas.
+**Objetivo:** Identificar lugar/fecha de nacimiento, residencia actual y foto en hábitat actual de la jirafa de la imagen proporcionada.  
+**Herramientas**: Antes de empezar con la investigación planificamos las principales herramientas que vamos a utilizar. Principalmente: Google Imágenes, Google Lens, TinEye, Google Dorks y fuentes abiertas.
 
-Observaciones visuales previas:
-
+**Observaciones visuales previas:**
 * Jirafa bebé con manchas grandes oscuras.  
 * Fondo: cerca metálica de cadena, madera, vegetación.
 
