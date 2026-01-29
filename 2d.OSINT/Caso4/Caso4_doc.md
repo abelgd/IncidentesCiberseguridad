@@ -64,12 +64,14 @@
 
 ![Imagen3](3_caso4.jpeg)
 
-* **Resultados**:  
-  | Pregunta | Respuesta |  
-  |----------|-----------|  
-  | **Hora grabación** | **~4:45 PM (16:45), 16 feb 2023** |  
-  | **Coordenadas inicio** | **41°19'37.24"N, 19°48'27.01"E** |  
-  | **Coordenadas fin** | **41°19'36.29"N, 19°48'23.89"E** |
+---
+
+| **Pregunta** | **Respuesta** |
+|--------------|---------------|
+| **Hora grabación vídeo** | ~4:45 PM (16:45), 16 feb 2023 |
+| **Coordenadas inicio vídeo** | 41°19'37.24"N, 19°48'27.01"E |
+| **Coordenadas fin vídeo** | 41°19'36.29"N, 19°48'23.89"E |
+
 
 ## **Dificultades encontradas**
 

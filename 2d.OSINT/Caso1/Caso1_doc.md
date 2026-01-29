@@ -55,10 +55,20 @@ Hacemos una búsqueda en Google buscando más información sobre Disney’s Anim
 
 ![Imagen5](willow_adulto.png)
 
+---
+
+| **Pregunta** | **Respuesta** |
+|--------------|---------------|
+| **Lugar y fecha de nacimiento** | Virginia Zoo, 21/10/2009 a las 21:15 h (Willow, jirafa Masai) |
+| **Residencia actual y fecha de llegada** | Disney's Animal Kingdom, 12/10/2010 |
+| **Fotografía en hábitat actual** | Instagram oficial de Disney – Kilimanjaro Safaris |
+
 ## Dificultades encontradas
 
-- Las búsquedas iniciales a través de google images y google lens no proporcionan ningún tipo de información que nos sirva para avanzar en la investigación. Al usar la herramienta tineye damos un paso decisivo y empezamos a encontrar indicios relevantes.
-- Pequeña confusión en una noticia en la cual informan sobre dos fechas diferentes de nacimiento de Willow. Contrastamos la información a través de más páginas oficiales y más noticias siendo la verdadera el 21oct.
-- Identificación ejemplar ambigua: Múltiples jirafas Masai en ZooChat sin nombres específicos. Superamos esta dificultad a través del cruce de información fecha+zoo+nombre (Willow).
-- Paginación profunda en Zooborns: Entrada objetivo enterrada en página 3 del blog (cronología inversa). Superado: Ctrl+F sistemático página por página.
-- Verificación fecha traslado: Múltiples fuentes contradictorias. Superado: Priorizar noticias oficiales zoo.
+- Las búsquedas iniciales a través de google images y google lens **no proporcionan ningún tipo de información** que nos sirva para avanzar en la investigación. Al usar la herramienta tineye damos un paso decisivo y empezamos a encontrar indicios relevantes.
+- Pequeña confusión en una noticia en la cual **informan sobre dos fechas diferentes de nacimiento de Willow**. Contrastamos la información a través de más páginas oficiales y más noticias siendo la verdadera el 21oct.
+- **Identificación ejemplar ambigua:** Múltiples jirafas Masai en ZooChat sin nombres específicos. Superamos esta dificultad a través del cruce de información fecha+zoo+nombre (Willow).
+- **Paginación profunda en Zooborns:** Entrada objetivo enterrada en página 3 del blog (cronología inversa). Superado: Ctrl+F sistemático página por página.
+- **Verificación fecha traslado:** Múltiples fuentes contradictorias. Superado: Priorizar noticias oficiales zoo.
+
+---

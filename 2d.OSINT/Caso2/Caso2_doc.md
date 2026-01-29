@@ -70,6 +70,14 @@ Buscamos en Google: "TTP suicide attack Khyber 3 police 2023"
 - Evento tweet: FALSO - Foto reciclada 17 años
 - Evidencia primaria: https://commons.wikimedia.org/wiki/File:WaziriyaAutobombeIrak.jpg
 
+---
+
+| **Pregunta** | **Respuesta** |
+|--------------|---------------|
+| **Origen real de la imagen** | Bagdad, Irak - 27/08/2006 (US Navy, VBIED Al Sabah) |
+| **Detalles del ataque TTP real** | Takhta Beg checkpost, Jamrud - 19/01/2023, 3 policías muertos (Dawn.com) |
+| **Estado del tweet analizado** | **DESINFORMACIÓN** - Foto reciclada 17 años |
+
 ## **Dificultades encontradas**
 
 - **Búsquedas genéricas iniciales**: Google Images mostró explosiones genéricas sin contexto. **Superado**: TinEye especializado → Wikipedia

@@ -54,6 +54,13 @@
 
 ![Imagen5](altura_edificio.jpeg)
 
+---
+
+| **Pregunta** | **Respuesta** |
+|--------------|---------------|
+| **Nombre estación** | Flinders Street Railway Station, Melbourne, Australia |
+| **Nombre + altura edificio** | FOCUS Apartments, 167 metros (50 pisos) |
+
 ## **Dificultades encontradas**
 
 - **TinEye sin resultados**: **Superado**: Texto visible **"Flinders Street"** → Google directo.  
