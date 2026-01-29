@@ -218,3 +218,81 @@ Siempre combinar **Street View múltiples ángulos** + **bases datos oficiales**
 - Verificar alturas con fuentes arquitectura oficiales
 
 ---
+
+# WRITE-UP CASO 4
+
+## Introducción y descripción del caso
+Determinar **hora de grabación** del vídeo **@VisitTirana** y **coordenadas exactas** inicio/fin trayecto peatonal.
+
+**Descripción de la imagen analizada:**
+- Vídeo "Sunset in Tirana" publicado 16/02/2023
+- Calle con carril bici central, arbustos verdes, árboles sin hojas
+- Edificio alto distintivo visible derecha
+
+---
+
+## Metodología empleada
+
+- **Análisis Twitter original**  
+  → Publicación 23:07 PM, fotógrafo **Eriseld Myrto**
+
+- **Instagram fotógrafo original**  
+  → Mismo vídeo publicado **16:48 PM** → estimación grabación **~16:45**
+
+- **Google Earth Pro 3D**  
+  → Identificación **Kavaja Street** por diseño único carretera
+
+- **Street View frame-by-frame**  
+  → Alineación farolas/arbustos para coordenadas precisas
+
+---
+
+## Resultados obtenidos
+
+- **a)** **~4:45 PM (16:45)**  
+  **16 de febrero 2023**  
+  Confirmado Instagram + SunCalc atardecer
+
+- **b)** **Kavaja Street (Rruga Kavajë), Tirana**  
+  **Inicio**: 41°19'37.24"N, 19°48'27.01"E  
+  **Fin**: 41°19'36.29"N, 19°48'23.89"E
+
+- **c)** Edificio distintivo referencia:  
+  **41°19'36.41"N, 19°48'21.08"E**
+
+---
+
+## Tabla con respuestas
+
+| Pregunta | Respuesta |
+|--------|----------|
+| **Hora grabación vídeo** | ~4:45 PM (16:45), 16 feb 2023 |
+| **Coordenadas inicio vídeo** | 41°19'37.24"N, 19°48'27.01"E |
+| **Coordenadas fin vídeo** | 41°19'36.29"N, 19°48'23.89"E |
+
+---
+
+## Conclusiones y recomendaciones
+**Instagram del creador original** proporcionó el **pivote decisivo** para cronolocalización.  
+**Street View sistemático** resolvió geolocalización con **100% fiabilidad**.
+
+**Recomendación principal:**  
+Siempre rastrear **fuentes originales creadores** + validar **Street View múltiples ángulos**.
+
+---
+
+## Reflexión sobre las limitaciones y posibles mejoras
+
+### Limitaciones
+- Hora Twitter (23:07) vs grabación real
+- Muchas calles Tirana similares
+- Street View 2016 vs vídeo 2023
+- Caption "Sunset" engañoso
+
+### Posibles mejoras
+- Priorizar Instagram/TikTok creadores originales
+- Combinar Google Earth 3D + Street View
+- Usar SunCalc sistemáticamente para validación lumínica
+- Alinear elementos permanentes (farolas/edificios) frente a temporales
+
+---
