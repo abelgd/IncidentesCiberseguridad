@@ -2,7 +2,7 @@
 
 **Actividad:** 2.b.02 — Implementación y configuración de SIEM  
 **Objetivo:** Desplegar un SIEM basado en ELK (Elasticsearch + Logstash + Kibana) y un agente (Nginx + Filebeat) para recolectar logs, integrarlos en Kibana y dejar el entorno listo para validar un caso de uso de detección (fuerza bruta SSH con Hydra).
-**Autor:** Abel García Domínguez
+> **Autor:** Abel García Domínguez
 
 ## Estructura del proyecto
 
