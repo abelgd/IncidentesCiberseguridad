@@ -295,4 +295,4 @@ Siempre rastrear **fuentes originales creadores** + validar **Street View múlti
 - Usar SunCalc sistemáticamente para validación lumínica
 - Alinear elementos permanentes (farolas/edificios) frente a temporales
 
----
+
