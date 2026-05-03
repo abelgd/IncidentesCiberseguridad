@@ -7,6 +7,8 @@ Identificar el **lugar y fecha de nacimiento**, **residencia actual** y **fotogr
 - Cerca metálica de cadena
 - Manchas grandes y oscuras típicas de la **jirafa Masai**
 
+[Caso 1 - Documentación](./Caso1/Caso1_doc.md)
+
 ---
 
 ## Metodología empleada
@@ -84,6 +86,9 @@ Verificar si la **imagen del tweet** de @ejaznoorzai (19/01/2023) muestra el ata
 - Humo negro denso
 - Calle urbana con edificios modernos
 
+[Caso 2 - Documentación](./Caso2/Caso2_doc.md)
+
+
 ---
 
 ## Metodología empleada
@@ -157,6 +162,9 @@ Identificar el **nombre de la estación de tren** y **nombre + altura de la estr
 - Edificios modernos de vidrio al fondo
 - Arquitectura australiana típica
 
+[Caso 3 - Documentación](./Caso3/Caso3_doc.md)
+
+
 ---
 
 ## Metodología empleada
@@ -228,6 +236,9 @@ Determinar **hora de grabación** del vídeo **@VisitTirana** y **coordenadas ex
 - Vídeo "Sunset in Tirana" publicado 16/02/2023
 - Calle con carril bici central, arbustos verdes, árboles sin hojas
 - Edificio alto distintivo visible derecha
+
+[Caso 4 - Documentación](./Caso4/Caso4_doc.md)
+
 
 ---
 
